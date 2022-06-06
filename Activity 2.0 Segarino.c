@@ -1,5 +1,5 @@
 /**
- * C program to calculate total, average and percentage of five subjects
+ * C program to calculate total and average of five subjects
  */
 
 #include <stdio.h>
